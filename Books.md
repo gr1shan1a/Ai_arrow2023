@@ -41,3 +41,17 @@
 Если хочется поработать именно с базами данных, то познакомиться с ними получше можно так:
 
 [*Часто базы данных пишут, используя SQL. Есть классный курс по нему. Это тоже полезно специалисту по анализу данных!*](https://stepik.org/course/63054/info)
+
+---
+Чтобы познакомиться с библиотеками Python подробнее:
+
+1) [Официальная документация библиотеки math;](https://docs.python.org/3/library/math.html)
+2) [Работа с другими библиотеками в Python;](https://pythonist.ru/osnovnye-moduli-python/)
+3) [Если хочется попробовать поработать с изображениями.](https://habr.com/ru/articles/681248/)
+   
+Полезные ссылки для углублённого знакомства с Pandas:
+
+1) [Выдержка из открытого курса от ODS про Pandas](https://habr.com/ru/company/ods/blog/322626/)
+2) [Отдельный курс на Stepik про Pandas](https://stepik.org/course/83990/promo)
+3) [Плейлист по Pandas на YouTube от egoroff_channel](https://www.youtube.com/watch?v=wjDns1IYcPg&list=PLQAt0m1f9OHvibdelR6YgWvxKRv-FDz4D)
+
