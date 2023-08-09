@@ -20,3 +20,10 @@ Links to [google.colaboration](https://colab.research.google.com/?hl=ru):
 ---
 
 [pandas](https://drive.google.com/file/d/1FkA1X3sm9efFB68NP2rtyPXa_D17hi6B/view?usp=sharing)
+
+---
+
+1) [OOP](https://colab.research.google.com/drive/1lkaprJnH1aLaRnMQdUBtGwETxZ4XD_dl)
+2) А теперь давай разберем ноутбук профессионала, который решил [одно из популярных соревнований на Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) о предсказании цены недвижимости. Предлагаем тебе внимательно изучить классы и функции и понять, что же за ними скрывается. 
+
+[Ссылка на оригинал ноутбука.](https://www.kaggle.com/code/alaasedeeq/object-oriented-programming-for-data-science)
