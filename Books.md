@@ -55,3 +55,9 @@
 2) [Отдельный курс на Stepik про Pandas](https://stepik.org/course/83990/promo)
 3) [Плейлист по Pandas на YouTube от egoroff_channel](https://www.youtube.com/watch?v=wjDns1IYcPg&list=PLQAt0m1f9OHvibdelR6YgWvxKRv-FDz4D)
 
+---
+Чтобы получше познакомиться с ООП можете дополнительно почитать:
+
+1)[Про функции и их аргументы;](https://pythonworld.ru/tipy-dannyx-v-python/vse-o-funkciyax-i-ix-argumentax.html)
+2)[Шапргалку по всем основам ООП;](https://tproger.ru/translations/oop-principles-cheatsheet/)
+3)[Про полиморфизм.](https://habr.com/ru/post/552922/)
