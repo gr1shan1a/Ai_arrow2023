@@ -6,15 +6,15 @@
 
 Различные сайты и литература, чтобы увлекательно оттачивать свои навыки по программированию:
 
-1) [Сайт с соревнованиями по программированию;]https://leetcode.com/
-1) [Хороший онлайн-справочник по Python на английском языке;]https://learnpython.org/
-2) ["Учим Python, делая крутые игры", Свейгарт Эл;]https://www.litres.ru/el-sveygart/uchim-python-delaya-krutye-igry-33399590/
-3) [Сайт с задачами по программированию для отработки навыков.]https://www.codewars.com/r/QULJAg
+1) [Сайт с соревнованиями по программированию;](https://leetcode.com/)
+1) [Хороший онлайн-справочник по Python на английском языке;](https://learnpython.org/)
+2) ["Учим Python, делая крутые игры", Свейгарт Эл;](https://www.litres.ru/el-sveygart/uchim-python-delaya-krutye-igry-33399590/)
+3) [Сайт с задачами по программированию для отработки навыков.](https://www.codewars.com/r/QULJAg)
 
 Подробнее про операционные системы для Data Science можно прочитать здесь:
-    [Онлайн-курс "Введение в Linux".]https://stepik.org/course/73/promo
+    [Онлайн-курс "Введение в Linux".](https://stepik.org/course/73/promo)
 
 Научно-популярная литература про развитие технологий:
 
-1) ["Сумма технологии", Станислав Лем;]https://www.litres.ru/stanislav-lem/summa-tehnologii/
-2) ["Homo Deus. Краткая история будущего", Юваль Ной Харари.]https://www.litres.ru/uval-noy-harari/homo-deus-kratkaya-istoriya-buduschego/
+1) ["Сумма технологии", Станислав Лем;](https://www.litres.ru/stanislav-lem/summa-tehnologii/)
+2) ["Homo Deus. Краткая история будущего", Юваль Ной Харари.](https://www.litres.ru/uval-noy-harari/homo-deus-kratkaya-istoriya-buduschego/)
