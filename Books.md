@@ -58,6 +58,22 @@
 ---
 Чтобы получше познакомиться с ООП можете дополнительно почитать:
 
-1)[Про функции и их аргументы;](https://pythonworld.ru/tipy-dannyx-v-python/vse-o-funkciyax-i-ix-argumentax.html)
-2)[Шапргалку по всем основам ООП;](https://tproger.ru/translations/oop-principles-cheatsheet/)
-3)[Про полиморфизм.](https://habr.com/ru/post/552922/)
+1) [Про функции и их аргументы;](https://pythonworld.ru/tipy-dannyx-v-python/vse-o-funkciyax-i-ix-argumentax.html)
+2) [Шапргалку по всем основам ООП;](https://tproger.ru/translations/oop-principles-cheatsheet/)
+3) [Про полиморфизм.](https://habr.com/ru/post/552922/)
+
+
+----
+----
+
+[Мы рекомендуем отдельный курс от Академии ИИ, чтобы изучить математику для наук о данных на более высоком уровне.](https://ai-academy.ru/training/courses/matematika-dlya-data-science/promo/)
+
+Если ты хочешь подробнее изучить линейную алгебру, чтобы делать качественный код для машинного обучения, то можешь дополнительно пройти эти курсы по теме:
+
+1) [Курс от CS центра.](https://ai-academy.ru/training/courses/matematika-dlya-data-science/promo/) Он ориентирован на студентов, поэтому он может быть немного сложным, но даёт все основные понятия;
+2) [Минимум по линейной алгебре;](https://stepik.org/course/57167/promo?search=1133534567)
+3) [Элементы линейной алгебры и аналитической геометрии.](https://stepik.org/course/104906/promo?search=1133534569)  Курс от КФУ, который предназначен для студентов младших курсов. Но объяснения доступны и для учащихся старшей школы.
+А если тебе понравилось работать с изображениями, то можешь подробнее изучить работу с библиотекой Pillow:
+
+- [Документация библиотеки Pillow;](https://pillow.readthedocs.io/en/stable/)
+- [Обработка изображений при помощи Pillow.](https://python-scripts.com/pillow)
